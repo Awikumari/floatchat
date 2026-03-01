@@ -1,16 +1,60 @@
-# React + Vite
+FloatChat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FloatChat is a modern AI-powered ocean intelligence platform designed to transform raw marine and climate data into clear, actionable insights. The platform combines artificial intelligence, geospatial visualization, and natural language querying to support research, sustainability, and environmental decision-making.
 
-Currently, two official plugins are available:
+Project Overview :
+FloatChat aims to bridge the gap between complex ocean datasets and human understanding. By integrating AI-driven analytics with intuitive user experience design, the platform enables researchers and decision-makers to:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Analyze complex marine data patterns
+Understand climate trends and ocean behavior
+Extract insights using natural language queries
+Visualize geospatial information effectively
+Support sustainable ocean resource management
+The landing page demonstrates the core concept, visual design system, and interaction flow of the platform.
 
-## React Compiler
+Technology Stack :
+React
+Vite
+JavaScript (ES6+)
+HTML5
+CSS3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Homepage Implementation :
+The homepage was developed as a multi-section responsive landing interface using React and Vite. It includes a transparent fixed navigation bar, full-width hero section, structured content blocks, and a strong typographic hierarchy to guide user attention.
 
-## Expanding the ESLint configuration
+The design flow follows a narrative structure:
+Hero section introducing the platform vision
+AI and ocean intelligence explanation blocks
+Feature highlight sections (geospatial insights, natural language querying, dashboard concept)
+Strategic clarity section
+Final call-to-action screen
+The navigation bar remains fixed and translucent across sections to maintain accessibility and visual continuity. The layout is optimized for clarity, spacing consistency, and smooth scroll transitions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Design and Wireframes :
+The FloatChat homepage (pre-login frontend interface) was designed using high-fidelity wireframes in Figma. The design defines the landing experience, navigation structure, typography hierarchy, and section-wise content flow before user authentication.
+The layout emphasizes clarity, minimalism, and structured presentation of AI-driven ocean intelligence concepts.
+
+FIGMA WIREFRAME LINK : 
+WITH HOMEPAGE INCLUDED : https://www.figma.com/design/lmpEr4AFGpd0BAfGb1WWL4/01?node-id=0-1&p=f&t=IM6C1XJeR4o2uE60-0
+JUST WIREFRAMES : https://www.figma.com/proto/lmpEr4AFGpd0BAfGb1WWL4/01?node-id=1-2&p=f&t=HWgt6NxHTj7RbXRl-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+
+Future Improvements
+
+Backend integration for real-time data processing
+AI-powered dataset querying engine
+User authentication and role-based access
+Live ocean data APIs
+Deployment with CI/CD pipeline
+Fully interactive dashboard implementation
+
+Repository
+
+GitHub Repository:
+https://github.com/Awikumari/floatchat
+
+Author
+Awi Kumari
+LinkedIn:
+https://www.linkedin.com/in/awi-kumari-003988348/
+GitHub:
+https://github.com/Awikumari

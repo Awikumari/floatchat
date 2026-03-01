@@ -1,0 +1,54 @@
+.slide3 {
+  height: 100vh;
+  padding: 140px 80px;
+  background: black;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+}
+
+.slide3-title {
+  font-size: 4rem;
+  line-height: 1.2;
+  max-width: 1200px;
+  margin-bottom: 80px;
+}
+
+.slide3-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 60px;
+}
+
+.left-label {
+  width: 220px;
+  font-size: 1rem;
+  color: #cccccc;
+  margin-top: 10px;
+}
+
+.columns {
+  display: flex;
+  flex: 1;
+  gap: 40px;
+}
+
+.col {
+  max-width: 280px;
+}
+
+.col h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.col p {
+  color: #cccccc;
+  line-height: 1.6;
+}
+
+.divider {
+  width: 1px;
+  background: #333;
+  height: 180px;
+}

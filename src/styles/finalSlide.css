@@ -1,0 +1,49 @@
+.final-slide {
+  height: 100vh;
+  padding: 140px 80px;
+  background: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  scroll-snap-align: start;
+}
+
+.final-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.final-top h2 {
+  font-size: 3rem;
+  letter-spacing: 2px;
+}
+
+.resources {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resources span {
+  font-size: 0.9rem;
+  color: #aaaaaa;
+}
+
+.resources a {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  transition: opacity 0.3s ease;
+}
+
+.resources a:hover {
+  opacity: 0.7;
+}
+
+.final-title {
+  font-size: 10rem;
+  font-weight: bold;
+  letter-spacing: 5px;
+}

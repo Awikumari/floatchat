@@ -36,6 +36,7 @@ The layout emphasizes clarity, minimalism, and structured presentation of AI-dri
 
 FIGMA WIREFRAME LINK : 
 WITH HOMEPAGE INCLUDED : https://www.figma.com/design/lmpEr4AFGpd0BAfGb1WWL4/01?node-id=0-1&p=f&t=IM6C1XJeR4o2uE60-0
+
 JUST WIREFRAMES : https://www.figma.com/proto/lmpEr4AFGpd0BAfGb1WWL4/01?node-id=1-2&p=f&t=HWgt6NxHTj7RbXRl-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 Future Improvements
